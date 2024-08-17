@@ -1,0 +1,101 @@
+Task 1
+
+Identify the top 10 cars with the highest miles per gallon. Also,
+identify the names of the car manufacturers.
+
+Note: You may consider either city mileage or highway mileage.
+
+Task 2
+
+Identify the top 10 cars with the highest miles per gallon based
+on displacement. Also, identify the names of their car
+manufacturers,
+
+Note: You may consider either city mileage or highway mileage.
+
+
+Task 3
+
+Identify the top 3 manufacturers with the highest number of
+cars of the hatchback body type.
+
+
+Task 4
+Compare the mileages of cars produced by all manufacturers
+and perform outlier analysis.
+Note: You may consider either city mileage or highway
+mileage.
+
+
+Task 5
+Present the relationship between
+(a) displacement and mileage
+
+(b) mileage and fuel tank capacity
+Note: You may consider either city mileage or highway mileage.
+
+Task 6
+Identify a car that would be best for adventurous drives,
+
+Note: Consider the following areas for analysis: car size, engine.
+power, safety features like traction control, and ground
+clearance. Based on these areas, infer the correct columns
+in the data for analysis.
+
+Task 7
+A person choosing a car for family usage may consider the
+following areas for analysis.
+1. Car size
+2. Safety features for adults and children
+3. Mileage
+4. Comfort during long distance travel
+5. Built-in entertainment options
+Using the columns above, identify a car suitable
+
+
+Task 8
+
+The car manufacturer decides to launch two types of cars,
+
+1. Compact city car (primarily for city usage)
+
+2. Family car (primarily for long distance travel)
+
+Identify the potential competitor cars for the two types of cars
+stated above
+
+
+Task 9
+
+Identify the outliers from following columns using Histogram
+
+method
+
+1. Displacement(Bin Size=980)
+
+2. City_Mileage(miles/gallon)(Bin Size=0.88)
+
+3. Fuel_Tank_Capacity(Bin Size=3)
+
+Remove the identified outliers from the dataset.
+
+
+Task 10
+Identify the top three car manufacturers with the highest
+number of variants in the hatchback category.
+
+Identify the top three manufacturers with the highest number
+of variants in the sedan category.
+
+Identify the top three manufacturers with the highest
+number of variants in the SUV category.
+
+Task 11
+
+Find the most popular car body type, by count, from the analysis
+of Task 2
+
+Car body types can fall under the categories such as SUV, sedan,
+and hatchback.
+
+

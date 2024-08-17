@@ -1,0 +1,92 @@
+Task 1
+
+Identify the top two manufacturers who offer the widest range
+of cars variants. Use appropriate charts/graphs to present the
+output, capturing the number of car variants under each body
+type for the two manufacturers identified above.
+
+Task 2
+Calculate and compare variations between City_Mileage data
+using different measures of dispersion of the following three
+manufacturers.
+
+1.Tata
+2. Maruti Suzuki
+3. Hyundai
+
+Which manufacturer offers the widest variation of
+city mileage?
+
+Task 3
+
+a. Display and check how City_Mileage depends on
+Fuel_Tank_Capacity using scatter plot along with trend line
+and Pearson's product-moment coefficient(R).
+
+b. Display and check how Displacement depends on
+Fuel_Tank_Capacity using scatter plot along with
+trend line and Pearson's product-moment
+coefficient(R).
+
+
+Understanding the Driving Patterns
+Let's narrow down the analysis by observing fuel efficiency to understand driving patterns, which will further help identify opportunities for reducing carbon emissions. This will involve another round of data
+pre-processing and performing a few more additional tasks.
+
+
+Task 4: Data Preprocessing
+A) Import the car dataset into Excel.
+B) Clean and format the data.
+	a) Check for missing values and inconsistencies.
+	b) Convert categorical variables to numerical codes
+	(e.9., 1. CNG, 2. Petrol for fuel types etc).
+	c) Standardize the units.
+
+C) Calculate additional fuel efficiency metrics
+
+	a) Combine city and highway mileage into a weighted average based 		on typical driving patterns
+
+		[Formula Avg. Combined Mileage = (City_Mileage + 			Highway_Mileage)/2]
+
+	b) Calculate distances driven from the data of combined 	city_highway mileage and fuel tank capacity.
+
+	[Formula: Distance = (Fuel Tank Capacity * Avg. Combined Mileage)]
+
+
+Task 5 — Data Analysis
+
+A) Visualize fuel efficiency distribution: 
+
+Compare fuel efficiency across car makes, models, fuel types, and other
+relevant features using a bar chart
+
+B) Analyze driving patterns:
+
+	a) Plot average speeds and distances driven against fuel 	efficiency to identify trends.
+
+	b) Use scatterplots and correlation matrices to explore
+	relationships between fuel efficiency and other variables.
+
+C) Identifying Opportunities for Reduced Emissions: 
+Group cars by fuel efficiency:
+
+	a) Segment cars into categories like "high efficiency", “moderate 	efficiency,” and "low efficiency."
+
+	b) Analyze the distribution of features within each category.
+
+	c) Identify common characteristics of cars with high fuel 	efficiency.
+
+Task 6
+
+a) Customize and enhance charts/graphs with appropriate story
+telling.
+
+b) Integrate necessary and relevant charts/graphs aligned
+with business objectives into dashboards to present
+the analyses
+
+c) Summarize all interpretations obtained from the 
+tasks conducted in Sprints 6 and 7.
+
+d) Prepare a PowerPoint presentation with project 
+requirements, findings from the analysis, summary, (Use a maximum of 15 slides).
