@@ -3,6 +3,8 @@
 This is a Data Analysis Project I had worked on for Market Competitor Analysis for Automobile Industry in India.
 
 In this project only Microsoft Excel has been used for clear understanding for all.
+![Car Variant - Body Style Dashboard](https://github.com/user-attachments/assets/bf96148d-82ef-4d3f-9985-ddffe2a590ac)
+
 
 File Description:
 
