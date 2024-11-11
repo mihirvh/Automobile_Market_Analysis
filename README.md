@@ -3,7 +3,14 @@
 This is a Data Analysis Project I had worked on for Market Competitor Analysis for Automobile Industry in India.
 
 In this project only Microsoft Excel has been used for clear understanding for all.
-![Car Variant - Body Style Dashboard](https://github.com/user-attachments/assets/bf96148d-82ef-4d3f-9985-ddffe2a590ac)
+
+## EXCEL DASHBOARD
+
+Car Variant - Body Style Dashboard
+![Car Variant - Body Style Dashboard](https://github.com/user-attachments/assets/649b52bf-677b-4fb5-be6f-4f06c95bbfc3)
+
+Fuel Efficiency Dashboard
+![Fuel Efficiency Dashboard](https://github.com/user-attachments/assets/c0a7bced-132a-4428-a1ec-ab1de9765a84)
 
 
 File Description:
